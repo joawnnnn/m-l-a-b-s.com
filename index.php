@@ -2,20 +2,20 @@
 Desenvolvido Por: mLabs
 -->
 <?php
-$url = "http://m-l-a-b-s.com/";
-$title = "mLabs";
+$url = "http://r-a-t-t-s.com/";
+$title = "Ratts";
 
 $var = array(
         "1" => array(
-                  "titulo" => "mLabs",
+                  "titulo" => "Ratts",
                   "image" => "http://gph.is/2m6xCjt"
                   ),
         "2" => array(
-                  "titulo" => "mLabs",
+                  "titulo" => "Ratts",
                   "image" => "http://gph.is/1pptU1s"
                   ),
         "3" => array(
-                  "titulo" => "mLabs",
+                  "titulo" => "Ratts",
                   "image" => "http://gph.is/NYwUyC"
                   ),
         );
